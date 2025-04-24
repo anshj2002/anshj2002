@@ -52,6 +52,20 @@ Assistive technology project using computer vision.
   - 🚀 Accelerated workflows by 40% through Appium and Selenium testing
   - 🔧 Streamlined operations with automated system integration
   - 📈 Reduced manual intervention by 40%
+ 
+* **SDE** at SGN Controls (Jan 2025 - Present)
+   * 📊 Developed and maintained PM monitoring dashboard solutions
+   * 🔧 Implemented real-time data visualization for environmental metrics
+   * 🔄 Streamlined data collection and processing workflows
+   * 📈 Enhanced reporting capabilities for regulatory compliance
+ A comprehensive real-time particulate matter monitoring system for environmental analysis and reporting.
+
+* 📈 Real-time visualization of concentration data
+* 🗺️ Geospatial mapping of air quality measurements across monitoring stations
+* 📱 Responsive design with cross-platform compatibility
+* ⏰ Historical data analysis with customizable time ranges
+* 🔔 Configurable alerts for threshold violations
+* [View Project](https://github.com/SGNControls/PM-Monitoring-Deshboard)
 
 ## 📊 Achievements
 - 💻 Solved 500+ DSA questions on LeetCode, HackerRank, and GeeksforGeeks
